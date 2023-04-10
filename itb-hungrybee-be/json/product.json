@@ -1,0 +1,222 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Kung Pao Chicken",
+            "minDeliverTime": 25,
+            "maxDeliverTime": 35,
+            "deliveryFee": 20,
+            "ranking": 3.9,
+            "image": "https://st2.depositphotos.com/1373322/8500/i/950/depositphotos_85002894-stock-photo-chinese-food-chicken-kung-pao.jpg",
+            "categories": ["c1", "c2"],
+            "price": 121
+          },
+          {
+            "id": "2",
+            "name": "Green Curry",
+            "minDeliverTime": 20,
+            "maxDeliverTime": 30,
+            "deliveryFee": 25,
+            "ranking": 4.5,
+            "image": "https://st2.depositphotos.com/1373322/6370/i/950/depositphotos_63701269-stock-photo-shrimps-curry-with-rice-on.jpg",
+            "categories": ["c2", "c6"],
+            "price": 112
+          },
+          {
+            "id": "3",
+            "name": "Spaghetti Bolognese",
+            "minDeliverTime": 30,
+            "maxDeliverTime": 40,
+            "deliveryFee": 30,
+            "ranking": 4.1,
+            "image": "https://st.depositphotos.com/1065854/1761/i/950/depositphotos_17613909-stock-photo-spaghetti-bolognese.jpg",
+            "categories": ["c3"],
+            "price": 153
+          },
+          {
+            "id": "4",
+            "name": "Ramen",
+            "minDeliverTime": 25,
+            "maxDeliverTime": 35,
+            "deliveryFee": 20,
+            "ranking": 4.3,
+            "image": "https://st3.depositphotos.com/5019009/15426/i/1600/depositphotos_154261972-stock-photo-miso-ramen-asian-noodles-with.jpg",
+            "categories": ["c2", "c4"],
+            "price": 104
+          },
+          {
+            "id": "5",
+            "name": "Bibimbap",
+            "minDeliverTime": 30,
+            "maxDeliverTime": 40,
+            "deliveryFee": 25,
+            "ranking": 4.4,
+            "image": "https://st3.depositphotos.com/7151288/14212/i/1600/depositphotos_142127348-stock-photo-korean-bibimbap-dish-top-view.jpg",
+            "categories": ["c2", "c5"],
+            "price": 135
+          },
+          {
+            "id": "6",
+            "name": "Tom Yum Soup",
+            "minDeliverTime": 20,
+            "maxDeliverTime": 30,
+            "deliveryFee": 25,
+            "ranking": 4.6,
+            "image": "https://st2.depositphotos.com/2680983/11807/i/950/depositphotos_118070450-stock-photo-tom-yam-kong-or-tom.jpg",
+            "categories": ["c6"],
+            "price": 96
+          },
+          {
+            "id": "7",
+            "name": "Sweet and Sour Pork",
+            "minDeliverTime": 25,
+            "maxDeliverTime": 35,
+            "deliveryFee": 20,
+            "ranking": 4.2,
+            "image": "https://st2.depositphotos.com/1373322/6090/i/950/depositphotos_60902267-stock-photo-pork-meat-with-sweet-and.jpg",
+            "categories": ["c1", "c3"],
+            "price": 147
+          },
+          {
+            "id": "8",
+            "name": "Sushi",
+            "minDeliverTime": 20,
+            "maxDeliverTime": 30,
+            "deliveryFee": 25,
+            "ranking": 4.7,
+            "image": "https://st.depositphotos.com/2066681/3023/i/950/depositphotos_30239063-stock-photo-japanese-food-sushi-and-sashimi.jpg",
+            "categories": ["c2", "c4"],
+            "price": 168
+          },
+          {
+            "id": "9",
+            "name": "Bulgogi",
+            "minDeliverTime": 30,
+            "maxDeliverTime": 40,
+            "deliveryFee": 25,
+            "ranking": 4.4,
+            "image": "https://st2.depositphotos.com/1373322/8556/i/950/depositphotos_85566896-stock-photo-tasty-korean-bulgogi-beef-with.jpg",
+            "categories": ["c2", "c5"],
+            "price": 129
+          },
+          {
+            "id": "10",
+            "name": "Green Papaya Salad",
+            "minDeliverTime": 20,
+            "maxDeliverTime": 30,
+            "deliveryFee": 20,
+            "ranking": 4.3,
+            "image": "https://static5.depositphotos.com/1030351/502/i/950/depositphotos_5029877-stock-photo-thai-papaya-salad.jpg",
+            "categories": ["c2", "c6"],
+            "price": 81
+          }   ,{
+            "id": "11",
+            "name": "General Tso's Chicken",
+            "minDeliverTime": 25,
+            "maxDeliverTime": 35,
+            "deliveryFee": 20,
+            "ranking": 4.4,
+            "image": "https://st2.depositphotos.com/1373322/8601/i/950/depositphotos_86013380-stock-photo-general-tsos-chicken-with-rice.jpg",
+            "categories": ["c1", "c2"],
+            "price": 132
+          },
+          {
+            "id": "12",
+            "name": "Beef Pho",
+            "minDeliverTime": 30,
+            "maxDeliverTime": 40,
+            "deliveryFee": 25,
+            "ranking": 4.3,
+            "image": "https://st2.depositphotos.com/1354142/9129/i/950/depositphotos_91292644-stock-photo-pho-bo-vietnamese-beef-rice.jpg",
+            "categories": ["c2", "c4"],
+            "price": 123
+          },
+          {
+            "id": "13",
+            "name": "Kimchi Fried Rice",
+            "minDeliverTime": 20,
+            "maxDeliverTime": 30,
+            "deliveryFee": 20,
+            "ranking": 4.5,
+            "image": "https://st3.depositphotos.com/8687452/15003/i/1600/depositphotos_150030768-stock-photo-pork-kimchi-fried-rice-with.jpg",
+            "categories": ["c2", "c5"],
+            "price": 114
+          },{
+            "id": "14",
+            "name": "Pad See Ew",
+            "minDeliverTime": 20,
+            "maxDeliverTime": 30,
+            "deliveryFee": 25,
+            "ranking": 4.6,
+            "image": "https://st3.depositphotos.com/3162779/18982/i/1600/depositphotos_189828426-stock-photo-thai-food-stir-fried-rice.jpg",
+            "categories": ["c2", "c6"],
+            "price": 105
+          },
+          {
+            "id": "15",
+            "name": "Miso Soup",
+            "minDeliverTime": 20,
+            "maxDeliverTime": 30,
+            "deliveryFee": 20,
+            "ranking": 4.2,
+            "image": "https://st2.depositphotos.com/1373322/6340/i/950/depositphotos_63409341-stock-photo-japanese-miso-soup-in-bowl.jpg",
+            "categories": ["c2", "c4"],
+            "price": 86
+          },
+          {
+            "id": "16",
+            "name": "Chicken Alfredo",
+            "minDeliverTime": 30,
+            "maxDeliverTime": 40,
+            "deliveryFee": 30,
+            "ranking": 4.4,
+            "image": "https://st.depositphotos.com/1692343/5081/i/950/depositphotos_50814327-stock-photo-homemade-fettucini-aflredo-pasta.jpg",
+            "categories": ["c3"],
+            "price": 167
+          },
+          {
+            "id": "17",
+            "name": "Bibim Naengmyeon",
+            "minDeliverTime": 30,
+            "maxDeliverTime": 40,
+            "deliveryFee": 25,
+            "ranking": 4.3,
+            "image": "https://st.depositphotos.com/1354142/2535/i/950/depositphotos_25356695-stock-photo-bibim-naengmyeon.jpg",
+            "categories": ["c2", "c5"],
+            "price": 148
+          },
+          {
+            "id": "18",
+            "name": "Dumplings",
+            "minDeliverTime": 25,
+            "maxDeliverTime": 35,
+            "deliveryFee": 20,
+            "ranking": 4.5,
+            "image": "https://st4.depositphotos.com/2208212/20841/i/1600/depositphotos_208417198-stock-photo-japanese-dumplings-gyoza-pork-meat.jpg",
+            "categories": ["c1", "c2"],
+            "price": 99
+          },
+          {
+            "id": "19",
+            "name": "Green Curry Fried Rice",
+            "minDeliverTime": 20,
+            "maxDeliverTime": 30,
+            "deliveryFee": 25,
+            "ranking": 4.7,
+            "image": "https://st.depositphotos.com/2051931/4062/i/950/depositphotos_40629393-stock-photo-fried-rice-with-vegetables.jpg",
+            "categories": ["c2", "c6"],
+            "price": 120
+          },
+          {
+            "id": "20",
+            "name": "California Roll",
+            "minDeliverTime": 20,
+            "maxDeliverTime": 30,
+            "deliveryFee": 25,
+            "ranking": 4.2,
+            "image": "https://st2.depositphotos.com/1744806/6888/i/950/depositphotos_68883703-stock-photo-california-roll-with-masago.jpg",
+            "categories": ["c2", "c4"],
+            "price": 100
+          }
+    ]
+}

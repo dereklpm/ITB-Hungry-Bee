@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "c1",
+            "name": "Chinese",
+            "image": "https://co-restaurants.roocdn.com/images/9c2dcee619cc2102f75d98f107cf84e60f82656f/shortcut/dumplings.png?width=200&height=114&fit=crop&bg-color=00ccbc&auto=webp&format=png"
+        },
+        {
+            "id": "c2",
+            "name": "Asian",
+            "image": "https://co-restaurants.roocdn.com/images/9c2dcee619cc2102f75d98f107cf84e60f82656f/shortcut/noodles.png?width=200&height=114&fit=crop&bg-color=cc3a2f&auto=webp&format=png"
+        },
+        {
+            "id": "c3",
+            "name": "Western",
+            "image": "https://co-restaurants.roocdn.com/images/9c2dcee619cc2102f75d98f107cf84e60f82656f/shortcut/rotisserie-1.png?width=200&height=114&fit=crop&bg-color=fabe00&auto=webp&format=png"
+        },
+        {
+            "id": "c4",
+            "name": "Japanese",
+            "image": "https://co-restaurants.roocdn.com/images/9c2dcee619cc2102f75d98f107cf84e60f82656f/shortcut/noodles.png?width=200&height=114&fit=crop&bg-color=9c006d&auto=webp&format=png"
+        },
+        {
+            "id": "c5",
+            "name": "Korean",
+            "image": "https://co-restaurants.roocdn.com/images/9c2dcee619cc2102f75d98f107cf84e60f82656f/shortcut/fried-chicken-1.png?width=200&height=114&fit=crop&bg-color=9c006d&auto=webp&format=png"
+        },
+        {
+            "id": "c6",
+            "name": "Thai",
+            "image": "https://co-restaurants.roocdn.com/images/9c2dcee619cc2102f75d98f107cf84e60f82656f/shortcut/thai.png?width=200&height=114&fit=crop&bg-color=007e8a&auto=webp&format=png"
+        }
+    ]
+}
